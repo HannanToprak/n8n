@@ -1,0 +1,17 @@
+[
+    {
+        "name": "common-core",
+        "description": "It is a common library related to core methods used in micro services",
+        "type": "library",
+        "url": "https://github.com/dnext-technology/common-core",
+        "branch": "develop"
+    },
+    {
+        "name": "product-catalog",
+        "description": "Product Catalog API TMF620",
+        "type": "api",
+        "url": "https://github.com/dnext-technology/product-catalog",
+        "branch": "develop",
+        "confluencePageId": "1141932075"
+    }
+]
