@@ -11,7 +11,14 @@
         "description": "Product Catalog API TMF620",
         "type": "api",
         "url": "https://github.com/dnext-technology/product-catalog",
-        "branch": "develop",
-        "confluencePageId": "1141932075"
+        "branch": "develop"
+       
+    },
+    {
+        "name": "account-ui",
+        "description": "Frontend user interface for account management",
+        "type": "ui",
+        "url": "https://github.com/dnext-technology/account-ui",
+        "branch": "develop"
     }
 ]
