@@ -11,8 +11,7 @@
         "description": "Product Catalog API TMF620",
         "type": "api",
         "url": "https://github.com/dnext-technology/product-catalog",
-        "branch": "develop"
-       
+        "branch": "develop" 
     },
     {
         "name": "account-ui",
@@ -26,6 +25,13 @@
         "description": "TMF 681 Communication Management API service",
         "type": "api",
         "url": "https://github.com/dnext-technology/communication-management",
+        "branch": "develop"
+    },
+    {
+        "name": "loyalty-management",
+        "description": "Loyalty Management API: manages loyalty program specifications, members, associated products, and loyalty accounts with balances.",
+        "type": "api",
+        "url": "https://github.com/dnext-technology/loyalty-management",
         "branch": "develop"
     }
 ]
