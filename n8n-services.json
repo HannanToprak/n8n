@@ -20,13 +20,7 @@
         "url": "https://github.com/dnext-technology/account-ui",
         "branch": "develop"
     },
-    {
-        "name": "communication-management",
-        "description": "TMF 681 Communication Management API service",
-        "type": "api",
-        "url": "https://github.com/dnext-technology/communication-management",
-        "branch": "develop"
-    },
+   
     {
         "name": "loyalty-management",
         "description": "Loyalty Management API: manages loyalty program specifications, members, associated products, and loyalty accounts with balances.",
