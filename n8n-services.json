@@ -132,5 +132,75 @@
         "type": "api",
         "url": "https://github.com/dnext-technology/communication-management",
         "branch": "develop"
-    }
+    },
+    {
+    "name": "ddhms-collector",
+    "description": "DDHMS Collector for listening Kafka events and saving them into Elasticsearch.",
+    "type": "backend",
+    "url": "https://github.com/dnext-technology/ddhms-collector",
+    "branch": "develop"
+  },
+  {
+    "name": "shopping-cart",
+    "description": "TMF663 - Service providing a standardized mechanism for managing shopping carts, including creation, update, retrieval, and deletion of events.",
+    "type": "backend",
+    "url": "https://github.com/dnext-technology/shopping-cart",
+    "branch": "develop"
+  },
+  {
+    "name": "quote",
+    "description": "CPQ (Customer, Price, Quote) UI for managing quotes within DNext ecosystem.",
+    "type": "frontend",
+    "url": "https://github.com/dnext-technology/cpq-ui",
+    "branch": "develop"
+  },
+  {
+    "name": "geographic-address",
+    "description": "TMF673 - Provides a standardized client interface for managing and validating worldwide geographic addresses.",
+    "type": "backend",
+    "url": "https://github.com/dnext-technology/geographic-address",
+    "branch": "develop"
+  },
+  {
+    "name": "payment",
+    "description": "TMF676 - Standardized Payments API for notifying about performed payments or refunds between systems.",
+    "type": "backend",
+    "url": "https://github.com/dnext-technology/payment",
+    "branch": "develop"
+  },
+  {
+    "name": "resource-inventory",
+    "description": "TMF639 - Provides a standardized mechanism to query and manipulate the Resource Inventory within the system.",
+    "type": "backend",
+    "url": "https://github.com/dnext-technology/resource-inventory",
+    "branch": "develop"
+  },
+  {
+    "name": "rule-engine",
+    "description": "Orbitant Rule Engine Management service that handles rule-based logic and workflow automation.",
+    "type": "backend",
+    "url": "https://github.com/dnext-technology/rule-engine",
+    "branch": "develop"
+  },
+  {
+    "name": "dbpm-form-management",
+    "description": "DBPMMS Form Management API — decoupled REST API for BPM/Workflow Engine providing O&M functionality for form management.",
+    "type": "backend",
+    "url": "https://github.com/dnext-technology/dbpm-form-management",
+    "branch": "develop"
+  },
+  {
+    "name": "agreement",
+    "description": "TMF651 - Agreement Management API providing standardized mechanisms to manage agreements, especially in partner contexts.",
+    "type": "backend",
+    "url": "https://github.com/dnext-technology/agreement",
+    "branch": "develop"
+  },
+  {
+    "name": "payment-method",
+    "description": "TMF670 - API for managing and supporting customer payment methods such as vouchers, coupons, and transfers.",
+    "type": "backend",
+    "url": "https://github.com/dnext-technology/payment-method",
+    "branch": "develop"
+  }
 ]
