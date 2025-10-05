@@ -90,5 +90,47 @@
         "type": "api",
         "url": "https://github.com/dnext-technology/job-scheduler",
         "branch": "develop"
+    },
+        {
+        "name": "panoramic-order-ui",
+        "description": "DPANO-OAM-UI Panoramic Order Management UI (Order 360), a frontend module for managing orders in DNext using Angular and TypeScript.",
+        "type": "ui",
+        "url": "https://github.com/dnext-technology/panoramic-order-ui",
+        "branch": "develop"
+    },
+    {
+        "name": "audit-log-event-management",
+        "description": "DALEMS (DNext Audit Log Event Management) — provides audit event tracking and management for logging system actions across DNext microservices.",
+        "type": "api",
+        "url": "https://github.com/dnext-technology/audit-log-event-management",
+        "branch": "develop"
+    },
+    {
+        "name": "dbpm-usertask-management",
+        "description": "User Task Management API — acts as a gateway for BPM platform-specific REST APIs enabling workflow and task operation orchestration within DNext.",
+        "type": "api",
+        "url": "https://github.com/dnext-technology/dbpm-usertask-management",
+        "branch": "develop"
+    },
+    {
+        "name": "dbeds-http-publisher",
+        "description": "HTTP Publisher API — supports outbound data delivery via HTTP endpoints, enabling event-based communication between DNext services and external systems.",
+        "type": "api",
+        "url": "https://github.com/dnext-technology/dbeds-http-publisher",
+        "branch": "develop"
+    },
+    {
+        "name": "service-ordering",
+        "description": "TMF641 Service Ordering API — provides standardized mechanisms for creating, updating, and retrieving service orders with related notifications in DNext.",
+        "type": "api",
+        "url": "https://github.com/dnext-technology/service-ordering",
+        "branch": "develop"
+    },
+    {
+        "name": "communication",
+        "description": "Communication Management API — manages inter-service and external communication flows in DNext, supporting message routing and integration management.",
+        "type": "api",
+        "url": "https://github.com/dnext-technology/communication-management",
+        "branch": "develop"
     }
 ]
