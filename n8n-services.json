@@ -49,7 +49,6 @@
         "url": "https://github.com/dnext-technology/privacy-management",
         "branch": "develop"
     },
-    
     {
         "name": "dbpm-back-office-user-ticket-management",
         "description": "BackOffice User Ticket API: decoupled REST API for user ticket management functionality.",
@@ -62,6 +61,34 @@
         "description": "Common library related to PostgreSQL database, reusable across services.",
         "type": "library",
         "url": "https://github.com/dnext-technology/common-postgresql",
+        "branch": "develop"
+    },
+        {
+        "name": "configuration-management",
+        "description": "This Service API provides a standardized client interface for LOV (List of Value) data configuration management.",
+        "type": "api",
+        "url": "https://github.com/dnext-technology/configuration-management",
+        "branch": "develop"
+    },
+    {
+        "name": "roles-and-permissions-ui",
+        "description": "Roles and Permissions UI (DRAPMS-UI) implementing TMF 672 for managing roles and access permissions.",
+        "type": "ui",
+        "url": "https://github.com/dnext-technology/roles-and-permissions-ui",
+        "branch": "develop"
+    },
+    {
+        "name": "dbpmms-form-ui",
+        "description": "DPMMS Form Management Service UI — the frontend interface for managing and designing dynamic forms.",
+        "type": "ui",
+        "url": "https://github.com/dnext-technology/dbpmms-form-ui",
+        "branch": "develop"
+    },
+    {
+        "name": "job-scheduler",
+        "description": "This API operates scheduling for orders and jobs, triggering them automatically on defined dates.",
+        "type": "api",
+        "url": "https://github.com/dnext-technology/job-scheduler",
         "branch": "develop"
     }
 ]
