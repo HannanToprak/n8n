@@ -202,5 +202,54 @@
     "type": "backend",
     "url": "https://github.com/dnext-technology/payment-method",
     "branch": "develop"
+  },
+      {
+    "name": "order-generation",
+    "description": "Order Generation Management API — generates and manages orders in the DNext platform using Java, Spring, and MongoDB.",
+    "type": "backend",
+    "url": "https://github.com/dnext-technology/order-generation",
+    "branch": "develop"
+  },
+  {
+    "name": "dbpm-operate-management",
+    "description": "DBPMMS Operate Management API — handles process instance operations and interactions with the Camunda BPM engine.",
+    "type": "backend",
+    "url": "https://github.com/dnext-technology/dbpm-operate-management",
+    "branch": "develop"
+  },
+  {
+    "name": "service-inventory",
+    "description": "TMF638 Service Inventory API — provides standardized mechanisms to query and manipulate service inventory records in DNext.",
+    "type": "backend",
+    "url": "https://github.com/dnext-technology/service-inventory",
+    "branch": "develop"
+  },
+  {
+    "name": "business-event-detector-management",
+    "description": "Business Event Detector Management — detects and manages business events using OpenAPI-generated Spring Boot stubs.",
+    "type": "backend",
+    "url": "https://github.com/dnext-technology/business-event-detector-management",
+    "branch": "develop"
+  },
+  {
+    "name": "party-role",
+    "description": "TMF669 Party Role API — standardized mechanism to manage general party roles with CRUD and event notification operations.",
+    "type": "backend",
+    "url": "https://github.com/dnext-technology/party-role",
+    "branch": "develop"
+  },
+  {
+    "name": "dalems-collector",
+    "description": "DALEMS Collector — listens to Kafka events and stores them in Elasticsearch for audit and monitoring purposes.",
+    "type": "backend",
+    "url": "https://github.com/dnext-technology/dalems-collector",
+    "branch": "develop"
+  },
+  {
+    "name": "dbo-userticket-ui",
+    "description": "DNext Backoffice User Ticket UI — Angular/TypeScript-based user interface for managing user tasks within the backoffice system.",
+    "type": "frontend",
+    "url": "https://github.com/dnext-technology/dbo-userticket-ui",
+    "branch": "develop"
   }
 ]
