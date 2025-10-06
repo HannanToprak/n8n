@@ -251,5 +251,251 @@
     "type": "frontend",
     "url": "https://github.com/dnext-technology/dbo-userticket-ui",
     "branch": "develop"
+  },
+    {
+    "name": "document-ui",
+    "description": "DNext Document UI — Angular-based frontend for managing document entities and configurations within the DNext platform.",
+    "type": "frontend",
+    "url": "https://github.com/dnext-technology/document-ui",
+    "branch": "develop"
+  },
+  {
+    "name": "service-catalog",
+    "description": "DNext Service Catalog API — TMF633-based backend service managing the lifecycle of service catalog elements.",
+    "type": "backend",
+    "url": "https://github.com/dnext-technology/service-catalog",
+    "branch": "develop"
+  },
+  {
+    "name": "href-map",
+    "description": "DNext Href Map Service — backend component maintaining DNS domain names and related relative href path mappings.",
+    "type": "backend",
+    "url": "https://github.com/dnext-technology/href-map",
+    "branch": "develop"
+  },
+  {
+    "name": "party-ui",
+    "description": "DNext Party UI — Angular frontend for managing individual or organizational party information before role assignment.",
+    "type": "frontend",
+    "url": "https://github.com/dnext-technology/party-ui",
+    "branch": "develop"
+  },
+  {
+    "name": "trouble-ticket",
+    "description": "DNext Trouble Ticket API — TMF632-based backend for managing the lifecycle of customer trouble tickets and related operations.",
+    "type": "backend",
+    "url": "https://github.com/dnext-technology/trouble-ticket",
+    "branch": "develop"
+  },
+  {
+    "name": "customer-ui",
+    "description": "DNext Customer UI — Angular-based frontend for managing customer-related data and interactions within the DNext ecosystem.",
+    "type": "frontend",
+    "url": "https://github.com/dnext-technology/customer-ui",
+    "branch": "develop"
+  },
+  {
+    "name": "party",
+    "description": "DNext Party Management API — TMF632-compliant backend for creating, updating, and retrieving individual or organizational party data.",
+    "type": "backend",
+    "url": "https://github.com/dnext-technology/party",
+    "branch": "develop"
+  },
+  {
+    "name": "product-catalog-ui",
+    "description": "DNext Product Catalog UI — Angular-based frontend for managing product catalog configurations and offerings.",
+    "type": "frontend",
+    "url": "https://github.com/dnext-technology/product-catalog-ui",
+    "branch": "develop"
+  },
+    {
+    "name": "resource-catalog",
+    "description": "TMF634 - The Resource Catalog Management API allows the management of the entire lifecycle of resource catalog elements and their consultation during ordering processes.",
+    "type": "backend",
+    "url": "https://github.com/dnext-technology/resource-catalog",
+    "branch": "develop"
+  },
+  {
+    "name": "product-inventory",
+    "description": "TMF637 - Provides standardized mechanisms for product inventory management, including creation, updates, and retrieval of product representations and related lifecycle events.",
+    "type": "backend",
+    "url": "https://github.com/dnext-technology/product-inventory",
+    "branch": "develop"
+  },
+  {
+    "name": "backoffice",
+    "description": "DNext Backoffice API — backend service responsible for managing task execution, configuration, and integration of backoffice operations.",
+    "type": "backend",
+    "url": "https://github.com/dnext-technology/backoffice",
+    "branch": "develop"
+  },
+  {
+    "name": "dcomms-ui",
+    "description": "DNext Communication Management UI — Angular and TypeScript-based interface for managing communication configurations and messaging workflows.",
+    "type": "frontend",
+    "url": "https://github.com/dnext-technology/dcomms-ui",
+    "branch": "develop"
+  },
+  {
+    "name": "document",
+    "description": "TMF667 - Document Management API that provides operations to synchronize, upload, and view documents such as agreements or customer bills.",
+    "type": "backend",
+    "url": "https://github.com/dnext-technology/document",
+    "branch": "develop"
+  },
+  {
+    "name": "price-engine",
+    "description": "DNext Price Engine API — calculates one-time and recurring service charges, grouping prices by type for accurate billing and analysis.",
+    "type": "backend",
+    "url": "https://github.com/dnext-technology/price-engine",
+    "branch": "develop"
+  },
+  {
+    "name": "resource-catalog-ui",
+    "description": "DNext Resource Catalog UI — Angular frontend that enables managing and visualizing resource catalogs, categories, and related entities.",
+    "type": "frontend",
+    "url": "https://github.com/dnext-technology/resource-catalog-ui",
+    "branch": "develop"
+  },
+  {
+    "name": "product-ordering-fulfillment-orchestration",
+    "description": "DNext Product Ordering Fulfillment Orchestration — manages the end-to-end order fulfillment process, including product delivery and return operations.",
+    "type": "backend",
+    "url": "https://github.com/dnext-technology/product-ordering-fulfillment-orchestration",
+    "branch": "develop"
+  },
+  {
+    "name": "customer-journey",
+    "description": "Customer Journey API — manages customer service interactions and relations across multiple backend systems.",
+    "type": "backend",
+    "url": "https://github.com/dnext-technology/customer-journey",
+    "branch": "develop"
+  },
+    {
+    "name": "activity-history",
+    "description": "DNext Activity History — backend API that maintains structured logs of system events, capturing activity data for auditing and monitoring purposes.",
+    "type": "backend",
+    "url": "https://github.com/dnext-technology/activity-history",
+    "branch": "develop"
+  },
+  {
+    "name": "activity-history-ui",
+    "description": "DNext Activity History UI — Angular/TypeScript-based frontend for managing and viewing activity history logs in the DNext platform.",
+    "type": "frontend",
+    "url": "https://github.com/dnext-technology/activity-history-ui",
+    "branch": "develop"
+  },
+  {
+    "name": "resource-ordering",
+    "description": "TMF652 - Resource Ordering API — manages creation, update, and retrieval of resource orders, providing standardized order lifecycle operations.",
+    "type": "backend",
+    "url": "https://github.com/dnext-technology/resource-ordering",
+    "branch": "develop"
+  },
+  {
+    "name": "promotion-management",
+    "description": "DNext Promotion Management API — backend service managing promotional rules, eligibility criteria, and campaign configurations.",
+    "type": "backend",
+    "url": "https://github.com/dnext-technology/promotion-management",
+    "branch": "develop"
+  },
+  {
+    "name": "product-ordering",
+    "description": "TMF622 - Product Ordering API — provides standardized mechanisms for placing and managing product orders, ensuring CRM and order system consistency.",
+    "type": "backend",
+    "url": "https://github.com/dnext-technology/product-ordering",
+    "branch": "develop"
+  },
+  {
+    "name": "configuration-management-ui",
+    "description": "DNext Configuration Management UI — Angular-based interface for configuring, managing, and deploying environment and platform settings.",
+    "type": "frontend",
+    "url": "https://github.com/dnext-technology/configuration-management-ui",
+    "branch": "develop"
+  },
+  {
+    "name": "roles-and-permissions",
+    "description": "TMF672 - Roles and Permissions API — manages user roles and permission sets to control access to DNext system data and services.",
+    "type": "backend",
+    "url": "https://github.com/dnext-technology/roles-and-permissions",
+    "branch": "develop"
+  },
+  {
+    "name": "reference-management",
+    "description": "DNext Reference Management API — provides standardized management of reference data such as markets, channels, and other shared resources.",
+    "type": "backend",
+    "url": "https://github.com/dnext-technology/reference-management",
+    "branch": "develop"
+  },
+  {
+    "name": "product-offering-qualification",
+    "description": "TMF679 - Product Offering Qualification API — enables commercial eligibility checks for product offerings during the pre-ordering process.",
+    "type": "backend",
+    "url": "https://github.com/dnext-technology/product-offering-qualification",
+    "branch": "develop"
+  },
+  {
+    "name": "storage",
+    "description": "DNext Storage Service — backend API providing AWS S3-compatible operations for object storage management and file handling.",
+    "type": "backend",
+    "url": "https://github.com/dnext-technology/storage",
+    "branch": "develop"
+  },
+    {
+    "name": "id-generation-management",
+    "description": "DNext ID Generation Management — backend service that manages resources controlling the formatting of generated IDs for DNext resources.",
+    "type": "backend",
+    "url": "https://github.com/dnext-technology/id-generation-management",
+    "branch": "develop"
+  },
+  {
+    "name": "service-ordering-fulfillment-orchestration",
+    "description": "DNext Service Ordering Fulfillment Orchestration — backend microservice that handles order processing, shipment, inventory, and delivery orchestration based on TMF standards.",
+    "type": "backend",
+    "url": "https://github.com/dnext-technology/service-ordering-fulfillment-orchestration",
+    "branch": "develop"
+  },
+  {
+    "name": "resource-ordering-fulfillment-orchestration",
+    "description": "DNext Resource Ordering Fulfillment Orchestration — backend service that manages the orchestration of resource-level fulfillment operations, aligned with order fulfillment processes.",
+    "type": "backend",
+    "url": "https://github.com/dnext-technology/resource-ordering-fulfillment-orchestration",
+    "branch": "develop"
+  },
+  {
+    "name": "partner",
+    "description": "DNext Partnership Management — API defining standardized mechanisms for managing partnerships and role types between entities such as Buyer, Seller, and Developer.",
+    "type": "backend",
+    "url": "https://github.com/dnext-technology/partner",
+    "branch": "develop"
+  },
+  {
+    "name": "party-interaction-management",
+    "description": "DNext Party Interaction Management — TMF683-based backend service that captures and manages user interactions for reuse and analytical insights.",
+    "type": "backend",
+    "url": "https://github.com/dnext-technology/party-interaction-management",
+    "branch": "develop"
+  },
+  {
+    "name": "data-history-management",
+    "description": "DNext Data History Management — backend service for persisting, retrieving, and managing historical data across various DNext resources.",
+    "type": "backend",
+    "url": "https://github.com/dnext-technology/data-history-management",
+    "branch": "develop"
+  },
+  {
+    "name": "account",
+    "description": "DNext Account Management — TMF666-based backend API providing mechanisms for billing, settlement, and financial account management in B2B/B2B2C contexts.",
+    "type": "backend",
+    "url": "https://github.com/dnext-technology/account",
+    "branch": "develop"
+  },
+  {
+    "name": "customer",
+    "description": "DNext Customer Management — TMF629-compliant backend API for managing customer lifecycle operations including creation, update, and notification.",
+    "type": "backend",
+    "url": "https://github.com/dnext-technology/customer",
+    "branch": "develop"
   }
+    
 ]
