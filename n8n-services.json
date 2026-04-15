@@ -495,7 +495,7 @@
         "type": "backend",
         "url": "https://github.com/dnext-technology/customer",
         "branch": "develop"
-      }
+      },
       {
         "name": "dnext-ducfms-unified-configuration-mgmt-srvc",
         "description": "DNext Unified Configuration Management Service — backend microservice for centralized unified configuration management and related state flow specification operations.",
