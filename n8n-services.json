@@ -1,5 +1,5 @@
 
-      {
+   [   {
         "name": "common-core",
         "description": "It is a common library related to core methods used in micro services",
         "type": "library",
@@ -503,5 +503,5 @@
         "url": "https://github.com/dnext-technology/dnext-ducfms-unified-configuration-mgmt-srvc",
         "branch": "develop"
       }
-
+]
     
